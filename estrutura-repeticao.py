@@ -8,3 +8,5 @@ while True:
         continue
     
     print(numero)
+
+    
